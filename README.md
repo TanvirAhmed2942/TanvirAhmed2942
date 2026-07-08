@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Web Developer from **Bangladesh 🇧🇩**
+- 💼 Full Stack Web Developer from **Bangladesh 🇧🇩** (Remote-✅)
 - 🌱 Currently mastering **ASP.NET Core**, **Clean Architecture**, **CQRS**, and **Microservices**
 - 💻 Experienced with both **.NET** and **MERN Stack**
 - 🚀 Passionate about backend architecture, scalable APIs, and modern web technologies
